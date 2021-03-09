@@ -1,0 +1,126 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="A&E " tvg-logo="http://distv.net/icons/ae.png" group-title="FILMES E SERIES",A&E 
+http://rec2.distv.net:80/plinio/123/113
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://distv.net/icons/amc.png" group-title="FILMES E SERIES",AMC
+http://rec2.distv.net:80/plinio/123/223
+#EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="ANIMAL PLANET" tvg-logo="http://distv.net/icons/animalplanet.png" group-title="ENTRETENIMENTO",ANIMAL PLANET
+http://rec2.distv.net:80/plinio/123/114
+#EXTINF:-1 tvg-id="" tvg-name="ARTE 1" tvg-logo="http://distv.net/icons/arte1.png" group-title="ENTRETENIMENTO",ARTE 1
+http://rec2.distv.net:80/plinio/123/115
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://distv.net/icons/axn.png" group-title="FILMES E SERIES",AXN
+http://rec2.distv.net:80/plinio/123/116
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="http://distv.net/icons/babytv.png" group-title="KIDS",BABY TV
+http://rec2.distv.net:80/plinio/123/117
+#EXTINF:-1 tvg-id="" tvg-name="BAND" tvg-logo="http://distv.net/icons/band.png" group-title="CANAIS LOCAIS",BAND
+http://rec2.distv.net:80/plinio/123/224
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS" tvg-logo="http://distv.net/icons/bandnews.png" group-title="REPORTAGEM",BAND NEWS
+http://rec2.distv.net:80/plinio/123/118
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS" tvg-logo="http://distv.net/icons/bandsports.png" group-title="SPORTS",BAND SPORTS
+http://rec2.distv.net:80/plinio/123/119
+#EXTINF:-1 tvg-id="" tvg-name="BBB Acompanhe a Casa" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Acompanhe a Casa
+http://rec2.distv.net:80/plinio/123/254
+#EXTINF:-1 tvg-id="" tvg-name="BBB Acompanhe a Casa 2" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Acompanhe a Casa 2
+http://rec2.distv.net:80/plinio/123/255
+#EXTINF:-1 tvg-id="" tvg-name="BBB Acompanhe a Casa Extra" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Acompanhe a Casa Extra
+http://rec2.distv.net:80/plinio/123/256
+#EXTINF:-1 tvg-id="" tvg-name="BBB Confessionario" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Confessionario
+http://rec2.distv.net:80/plinio/123/257
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cozinha Vip Xepa" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Cozinha Vip Xepa
+http://rec2.distv.net:80/plinio/123/258
+#EXTINF:-1 tvg-id="" tvg-name="BBB Mosaico" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Mosaico
+http://rec2.distv.net:80/plinio/123/259
+#EXTINF:-1 tvg-id="" tvg-name="BBB Piscina" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Piscina
+http://rec2.distv.net:80/plinio/123/260
+#EXTINF:-1 tvg-id="" tvg-name="BBB Quarto Colorido" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Quarto Colorido
+http://rec2.distv.net:80/plinio/123/261
+#EXTINF:-1 tvg-id="" tvg-name="BBB Sala de Estar" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Sala de Estar
+http://rec2.distv.net:80/plinio/123/262
+#EXTINF:-1 tvg-id="" tvg-name="BIS" tvg-logo="http://distv.net/icons/bis.png" group-title="ENTRETENIMENTO",BIS
+http://rec2.distv.net:80/plinio/123/120
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="http://distv.net/icons/boomerang.png" group-title="KIDS",BOOMERANG
+http://rec2.distv.net:80/plinio/123/121
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL" tvg-logo="http://distv.net/icons/canalbrasil.png" group-title="ENTRETENIMENTO",CANAL BRASIL
+http://rec2.distv.net:80/plinio/123/122
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SONY" tvg-logo="http://distv.net/icons/sonychannel.png" group-title="FILMES E SERIES",CANAL SONY
+http://rec2.distv.net:80/plinio/123/123
+#EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA" tvg-logo="http://distv.net/icons/cancaonovoceara.png" group-title="CANAIS LOCAIS",CANÇÃO NOVA
+http://rec2.distv.net:80/plinio/123/65
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="http://distv.net/icons/cartoonnetwork.png" group-title="KIDS",CARTOON NETWORK
+http://rec2.distv.net:80/plinio/123/124
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 01
+http://rec2.distv.net:80/plinio/123/48
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 02
+http://rec2.distv.net:80/plinio/123/49
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 03
+http://rec2.distv.net:80/plinio/123/50
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 04
+http://rec2.distv.net:80/plinio/123/51
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 05
+http://rec2.distv.net:80/plinio/123/52
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 06
+http://rec2.distv.net:80/plinio/123/53
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 07
+http://rec2.distv.net:80/plinio/123/54
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 08
+http://rec2.distv.net:80/plinio/123/55
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 09
+http://rec2.distv.net:80/plinio/123/56
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 10
+http://rec2.distv.net:80/plinio/123/57
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="http://distv.net/icons/cinemax.png" group-title="FILMES E SERIES",CINEMAX
+http://rec2.distv.net:80/plinio/123/125
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL" tvg-logo="http://distv.net/icons/cnnbrasil.png" group-title="REPORTAGEM",CNN BRASIL
+http://rec2.distv.net:80/plinio/123/225
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE" tvg-logo="http://distv.net/icons/combate.png" group-title="SPORTS",COMBATE
+http://rec2.distv.net:80/plinio/123/126
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="http://distv.net/icons/comedycentral.png" group-title="FILMES E SERIES",COMEDY CENTRAL
+http://rec2.distv.net:80/plinio/123/127
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA" tvg-logo="http://distv.net/icons/cultura.png" group-title="ENTRETENIMENTO",CULTURA
+http://rec2.distv.net:80/plinio/123/128
+#EXTINF:-1 tvg-id="" tvg-name="CURTA" tvg-logo="http://distv.net/icons/curta.png" group-title="ENTRETENIMENTO",CURTA
+http://rec2.distv.net:80/plinio/123/129
+#EXTINF:-1 tvg-id="" tvg-name="DAZN" tvg-logo="http://distv.net/icons/dazn.png" group-title="SPORTS",DAZN
+http://rec2.distv.net:80/plinio/123/226
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://distv.net/icons/discoverychannel.png" group-title="ENTRETENIMENTO",DISCOVERY CHANNEL
+http://rec2.distv.net:80/plinio/123/130
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HEALTH" tvg-logo="http://distv.net/icons/discoveryhomehealth.png" group-title="ENTRETENIMENTO",DISCOVERY HOME & HEALTH
+http://rec2.distv.net:80/plinio/123/131
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID" tvg-logo="http://distv.net/icons/discoveryid.png" group-title="ENTRETENIMENTO",DISCOVERY ID
+http://rec2.distv.net:80/plinio/123/132
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="http://distv.net/icons/discoverykids.png" group-title="KIDS",DISCOVERY KIDS
+http://rec2.distv.net:80/plinio/123/133
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://distv.net/icons/discoveryscience.png" group-title="ENTRETENIMENTO",DISCOVERY SCIENCE
+http://rec2.distv.net:80/plinio/123/134
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER" tvg-logo="http://distv.net/icons/discoverytheater.png" group-title="ENTRETENIMENTO",DISCOVERY THEATER
+http://rec2.distv.net:80/plinio/123/135
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="http://distv.net/icons/discoveryturbo.png" group-title="ENTRETENIMENTO",DISCOVERY TURBO
+http://rec2.distv.net:80/plinio/123/136
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD" tvg-logo="http://distv.net/icons/discoveryworld.png" group-title="ENTRETENIMENTO",DISCOVERY WORLD
+http://rec2.distv.net:80/plinio/123/137
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="http://distv.net/icons/disneychannel.png" group-title="KIDS",DISNEY CHANNEL
+http://rec2.distv.net:80/plinio/123/138
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR" tvg-logo="http://distv.net/icons/disneyjr.png" group-title="KIDS",DISNEY JR
+http://rec2.distv.net:80/plinio/123/139
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD" tvg-logo="http://distv.net/icons/disneyxd.png" group-title="KIDS",DISNEY XD
+http://rec2.distv.net:80/plinio/123/140
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="http://distv.net/icons/e.png" group-title="ENTRETENIMENTO",E!
+http://rec2.distv.net:80/plinio/123/141
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://distv.net/icons/espn.png" group-title="SPORTS",ESPN
+http://rec2.distv.net:80/plinio/123/142
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="http://distv.net/icons/espn2.png" group-title="SPORTS",ESPN 2
+http://rec2.distv.net:80/plinio/123/143
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL" tvg-logo="http://distv.net/icons/espnbrasil.png" group-title="SPORTS",ESPN BRASIL
+http://rec2.distv.net:80/plinio/123/144
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA" tvg-logo="http://distv.net/icons/espnextra.png" group-title="SPORTS",ESPN EXTRA
+http://rec2.distv.net:80/plinio/123/145
+#EXTINF:-1 tvg-id="" tvg-name="FILMS & ARTS" tvg-logo="http://distv.net/icons/filmeseartes.png" group-title="ENTRETENIMENTO",FILMS & ARTS
+http://rec2.distv.net:80/plinio/123/227
+#EXTINF:-1 tvg-id="" tvg-name="FISH TV" tvg-logo="http://distv.net/icons/fishtv.png" group-title="ENTRETENIMENTO",FISH TV
+http://rec2.distv.net:80/plinio/123/146
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="http://distv.net/icons/foodnetwork.png" group-title="ENTRETENIMENTO",FOOD NETWORK
+http://rec2.distv.net:80/plinio/123/147
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="http://distv.net/icons/foxchannel.png" group-title="FILMES E SERIES",FOX
+http://rec2.distv.net:80/plinio/123/148
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="http://distv.net/icons/foxlife.png" group-title="FILMES E SERIES",FOX LIFE
+http://rec2.distv.net:80/plinio/123/149
+#EXTINF: -1 tvg-id = "" tv
